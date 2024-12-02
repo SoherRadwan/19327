@@ -1,0 +1,1636 @@
+Humidity out: 58.00 %	Temperature out: 20.80 *C
+Humidity IN: 28.80 %	Temperature IN: 21.10 *C
+CO2: 355.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 20.80 *C
+Humidity IN: 27.80 %	Temperature IN: 21.10 *C
+CO2: 362.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 20.80 *C
+Humidity IN: 29.70 %	Temperature IN: 21.10 *C
+CO2: 365.16  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 20.80 *C
+Humidity IN: 30.70 %	Temperature IN: 21.10 *C
+CO2: 412.16  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 20.80 *C
+Humidity IN: 31.80 %	Temperature IN: 21.10 *C
+CO2: 452.16  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.70 %	Temperature IN: 22.10 *C
+CO2: 432.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 33.70 %	Temperature IN: 22.20 *C
+CO2: 462.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 33.70 %	Temperature IN: 23.20 *C
+CO2: 475.16  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 32.70 %	Temperature IN: 23.10 *C
+CO2: 436.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 33.70 %	Temperature IN: 23.10 *C
+CO2: 452.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 34.60 %	Temperature IN: 23.20 *C
+CO2: 456.16  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 33.60 %	Temperature IN: 24.20 *C
+CO2: 472.52  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.60 %	Temperature IN: 23.20 *C
+CO2: 463.52  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.60 %	Temperature IN: 23.20 *C
+CO2: 472.52  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.70 %	Temperature IN: 23.20 *C
+CO2: 468.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 34.70 %	Temperature IN: 23.20 *C
+CO2: 425.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 31.70 %	Temperature IN: 23.20 *C
+CO2: 482.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.70 %	Temperature IN: 24.20 *C
+CO2: 469.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 33.80 %	Temperature IN: 24.10 *C
+CO2: 478.52  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 33.80 %	Temperature IN: 24.10 *C
+CO2: 462.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 31.80 %	Temperature IN: 23.20 *C
+CO2: 496.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 32.80 %	Temperature IN: 25.20 *C
+CO2: 526.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 31.70 %	Temperature IN: 25.20 *C
+CO2: 563.09  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 23.80 *C
+Humidity IN: 33.70 %	Temperature IN: 25.20 *C
+CO2: 586.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 32.80 %	Temperature IN: 25.10 *C
+CO2: 569.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 31.80 %	Temperature IN: 24.10 *C
+CO2: 592.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 32.70 %	Temperature IN: 25.10 *C
+CO2: 592.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 35.70 %	Temperature IN: 25.10 *C
+CO2: 620.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.70 %	Temperature IN: 26.20 *C
+CO2: 635.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 35.70 %	Temperature IN: 26.20 *C
+CO2: 650.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 35.70 %	Temperature IN: 26.20 *C
+CO2: 658.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.70 %	Temperature IN: 26.20 *C
+CO2: 682.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 37.60 %	Temperature IN: 26.20 *C
+CO2: 692.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.60 %	Temperature IN: 26.20 *C
+CO2: 697.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 35.70 %	Temperature IN: 27.20 *C
+CO2: 750.09  ppm
+alarm
+Humidity out: 59.00 %	Temperature out: 23.80 *C
+Humidity IN: 35.70 %	Temperature IN: 26.20 *C
+CO2: 732.87  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.80 %	Temperature IN: 26.20 *C
+CO2: 765.87  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.80 %	Temperature IN: 27.20 *C
+CO2: 792.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.70 %	Temperature IN: 27.20 *C
+CO2: 769.84  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 23.80 *C
+Humidity IN: 34.70 %	Temperature IN: 27.20 *C
+CO2: 762.84  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 35.70 %	Temperature IN: 26.20 *C
+CO2: 795.84  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.70 %	Temperature IN: 27.20 *C
+CO2: 762.84  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 36.70 %	Temperature IN: 28.20 *C
+CO2: 782.84  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.70 %	Temperature IN: 27.20 *C
+CO2: 796.84  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.60 %	Temperature IN: 27.20 *C
+CO2: 766.84  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.60 %	Temperature IN: 28.20 *C
+CO2: 795.84  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.60 %	Temperature IN: 28.20 *C
+CO2: 862.84  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.60 %	Temperature IN: 27.20 *C
+CO2: 862.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.60 %	Temperature IN: 28.20 *C
+CO2: 862.01  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 35.60 %	Temperature IN: 27.20 *C
+CO2: 896.01  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.50 %	Temperature IN: 26.20 *C
+CO2: 847.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.50 %	Temperature IN: 27.20 *C
+CO2: 857.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 38.50 %	Temperature IN: 28.20 *C
+CO2: 896.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.50 %	Temperature IN: 27.20 *C
+CO2: 836.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.50 %	Temperature IN: 27.20 *C
+CO2: 873.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 38.50 %	Temperature IN: 28.20 *C
+CO2: 875.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.50 %	Temperature IN: 28.20 *C
+CO2: 869.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 36.50 %	Temperature IN: 27.20 *C
+CO2: 873.39  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.10 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.10 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.10 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.20 %	Temperature IN: 26.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.30 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.30 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.30 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 38.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.20 %	Temperature IN: 28.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 28.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 24.80 *C
+Humidity IN: 40.10 %	Temperature IN:H&“I‚R5
+CO2:PÈ)¢‚Áµ5
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 722.39  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 734.63  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.10 %	Temperature IN: 28.20 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 734.63  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.10 %	Temperature IN: 27.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 27.30 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 28.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 27.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 40.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.10 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.10 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.20 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.20 %	Temperature IN: 28.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.20 %	Temperature IN: 28.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.20 %	Temperature IN: 28.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.50 %	Temperature IN: 28.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.60 %	Temperature IN: 26.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.60 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 811.53  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.20 *C
+CO2: 759.60  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 772.33  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 26.20 *C
+CO2: 798.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 26.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 811.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.00 %	Temperature IN: 28.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.60 %	Temperature IN: 26.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.60 %	Temperature IN: 26.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.80 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.40 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.50 %	Temperature out: 21.80 *C
+Humidity IN: 40.70 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.60 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.10 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.90 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 40.90 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.70 %	Temperature IN: 28.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.60 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 24.80 *C
+Humidity IN: 41.30 %	Temperature IN: 26.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.70 %	Temperature IN: 28.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 26.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.50 %	Temperature IN: 27.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.50 %	Temperature IN: 27.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.50 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.50 %	Temperature IN: 29.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.50 %	Temperature IN: 29.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 36.10 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.10 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.10 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.20 %	Temperature IN: 26.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.20 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.30 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 37.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.30 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 37.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 38.30 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 38.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 39.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 39.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.40 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 23.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.20 %	Temperature IN: 28.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 28.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 24.80 *C
+Humidity IN: 40.10 %	Temperature IN:H&“I‚R5
+CO2:PÈ)¢‚Áµ5
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 722.39  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 734.63  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.10 %	Temperature IN: 28.20 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 734.63  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.10 %	Temperature IN: 27.20 *C
+CO2: 747.03  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.10 %	Temperature IN: 27.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 27.30 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 28.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.00 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 27.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 27.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 40.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.00 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.10 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.10 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.20 %	Temperature IN: 28.30 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.20 %	Temperature IN: 28.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.20 %	Temperature IN: 28.30 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.20 %	Temperature IN: 28.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.50 %	Temperature IN: 28.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.60 %	Temperature IN: 26.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.60 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 811.53  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.20 *C
+CO2: 759.60  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 772.33  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 28.20 *C
+CO2: 785.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.50 %	Temperature IN: 26.20 *C
+CO2: 798.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.00 %	Temperature IN: 26.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 811.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.00 %	Temperature IN: 28.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.60 %	Temperature IN: 26.20 *C
+CO2: 824.94  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.60 %	Temperature IN: 26.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 26.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.80 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.60 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.90 %	Temperature IN: 27.20 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.20 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.40 %	Temperature IN: 27.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.50 %	Temperature out: 21.80 *C
+Humidity IN: 40.70 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.60 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.10 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.10 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.90 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 22.80 *C
+Humidity IN: 40.90 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.80 %	Temperature IN: 27.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.70 %	Temperature IN: 28.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.70 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.60 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.60 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.50 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 41.50 %	Temperature IN: 27.20 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 27.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 24.80 *C
+Humidity IN: 41.30 %	Temperature IN: 26.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 41.30 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 40.30 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.20 %	Temperature IN: 27.30 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.40 %	Temperature IN: 28.30 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 28.30 *C
+CO2: 866.23  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 42.70 %	Temperature IN: 28.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.40 %	Temperature IN: 27.30 *C
+CO2: 838.53  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 26.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 57.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.30 %	Temperature IN: 27.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 42.30 %	Temperature IN: 28.30 *C
+CO2: 852.29  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.50 %	Temperature IN: 27.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.50 %	Temperature IN: 27.10 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 43.50 %	Temperature IN: 28.20 *C
+CO2: 880.35  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.50 %	Temperature IN: 28.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.50 %	Temperature IN: 29.20 *C
+CO2: 894.65  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.50 %	Temperature IN: 29.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.50 %	Temperature IN: 29.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.00 %	Temperature IN: 29.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 44.00 %	Temperature IN: 28.20 *C
+CO2: 968.95  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.10 %	Temperature IN: 28.20 *C
+CO2: 938.67  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.10 %	Temperature IN: 29.20 *C
+CO2: 1098.00  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.00 %	Temperature IN: 29.20 *C
+CO2: 909.14  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.00 %	Temperature IN: 29.20 *C
+CO2: 923.81  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.90 %	Temperature IN: 29.20 *C
+CO2: 984.39  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.90 %	Temperature IN: 29.20 *C
+CO2: 1048.09  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.80 %	Temperature IN: 29.20 *C
+CO2: 1015.84  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 22.80 *C
+Humidity IN: 45.80 %	Temperature IN: 28.20 *C
+CO2: 1000.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 44.70 %	Temperature IN: 29.20 *C
+CO2: 1000.01  ppm
+alarm
+Humidity out: 58.00 %	Temperature out: 21.80 *C
+Humidity IN: 45.70 %	Temperature IN: 29.20 *C
+CO2: 1000.01  ppm
+alarm
